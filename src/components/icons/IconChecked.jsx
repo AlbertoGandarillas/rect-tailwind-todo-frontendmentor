@@ -1,4 +1,4 @@
-const IconChecked = ({...props}) => {
+const IconChecked = ({ ...props }) => {
   return (
     <svg {...props} xmlns="http://www.w3.org/2000/svg" width="11" height="9">
       <path
